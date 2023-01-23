@@ -28,6 +28,7 @@ Deployed URL : https://morning-brook-96991.herokuapp.com/
 
 ## Demo
 - Refer to this Demo Video below to guide you through the app and its functionality:
+
 https://user-images.githubusercontent.com/110818668/214106436-53fc44fd-9560-4799-99c4-7585d361009e.mp4
 
 ## Technology
